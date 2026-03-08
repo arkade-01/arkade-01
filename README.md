@@ -1,12 +1,16 @@
-# hey, i'm arkade 👋
+## arkade
 
-building tools at the intersection of crypto and osint.
+Full-stack engineer focused on web3 infrastructure and on-chain tooling.
 
-### now
-- 🔍 [wayfinder](https://github.com/arkade-01/wayfinder-api) — on-chain wallet intelligence. trace bridges, exits, identities.
+Currently building **[Wayfinder](https://github.com/arkade-01/wayfinder-api)** — wallet intelligence platform for tracing cross-chain activity, bridge exits, and wallet identity resolution.
 
-### stack
-`typescript` `solidity` `next.js` `nest.js` `python`
+#### Recent Work
+- **Wayfinder** — On-chain OSINT: identity resolution, bridge tracing, exit detection
+- **ArkPay** — Crypto payment infrastructure
+- **LostSols** — Solana account rent recovery tool
 
-### links
-[arkade.lol](https://arkade.lol) · [twitter](https://twitter.com/01_arkade) · [farcaster](https://warpcast.com/arkade)
+#### Tech
+TypeScript · Solidity · NestJS · Next.js · Python · PostgreSQL · MongoDB
+
+#### Contact
+[arkade.lol](https://arkade.lol) · [X](https://twitter.com/01_arkade) · [Farcaster](https://warpcast.com/arkade)
